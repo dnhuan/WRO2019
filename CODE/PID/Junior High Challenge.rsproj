@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CogSimProj>
+  <ProjectInfo ID="c76b2f5b-96ec-4bff-b772-9948eb00202a" ItemID="2" Type="RobotSimProject" Version="2.6.0" />
+  <ProjectData>
+    <Details Creator="" Company="" Description="" Email="" Website="" />
+    <State CurrentEnvironment="268435456" />
+    <Directories>
+      <Directory DirectoryName="Materials" />
+      <Directory DirectoryName="Meshes" />
+      <Directory DirectoryName="Resources" />
+      <Directory DirectoryName="Scripts" />
+      <Directory DirectoryName="Textures">
+        <Dependency Name="BrickEd-BRICKED01BB-BattleBotChallengeBoard-FLL-FINAL-v06-1000.jpg" ItemID="1" Type="Texture" Path="" Link="False" />
+      </Directory>
+      <Directory DirectoryName="Environments">
+        <Dependency Name="Junior High Challenge.rsim" ItemID="268435456" Type="Environment" Path="" Link="False" />
+      </Directory>
+    </Directories>
+  </ProjectData>
+</CogSimProj>
